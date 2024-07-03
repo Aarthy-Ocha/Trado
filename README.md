@@ -1,7 +1,7 @@
 
 # Trado - Your trading assistant 
 
-Trado is an intelligent chatbot designed for comprehensive stock market analysis, specifically tailored for the Indian market. 
+Trado is an intelligent chatbot designed for stock market analysis, specifically tailored for the Indian market. It allows users to ask questions about specific stocks, market conditions, or investment strategies and receive accurate and relevant responses
 
 
 
