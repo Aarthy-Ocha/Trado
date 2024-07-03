@@ -1,0 +1,1 @@
+# Trado---trading-assistant
