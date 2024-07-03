@@ -1,1 +1,1 @@
-# Trado---trading-assistant
+# Trado-trading-assistant
